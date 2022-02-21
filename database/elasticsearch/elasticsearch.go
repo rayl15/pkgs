@@ -8,7 +8,7 @@ import (
 	"time"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/malice-plugins/pkgs/database"
+	"github.com/rayl15/pkgs/database"
 	"github.com/malice-plugins/pkgs/utils"
 	"github.com/olivere/elastic/v7"
 	"github.com/pkg/errors"
