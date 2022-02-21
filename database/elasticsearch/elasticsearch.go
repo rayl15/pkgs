@@ -9,7 +9,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"github.com/rayl15/pkgs/database"
-	"github.com/malice-plugins/pkgs/utils"
+	"github.com/rayl15/pkgs/utils"
 	"github.com/olivere/elastic/v7"
 	"github.com/pkg/errors"
 )
